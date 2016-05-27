@@ -1,0 +1,15 @@
+{
+  "name": "declare-ip",
+  "version": "1.0.0",
+  "description": "Display the contents of a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Per Engström",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pug": "^2.0.0-alpha8"
+  }
+}
